@@ -1,4 +1,4 @@
-<p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg"> </a>
+<p align="center"><a><img title="Built With Love" src="http://ForTheBadge.com/images/badges/built-by-developers.svg"> </a>
 
 <p align="center">
 	<img src="res/WhatsApp-Bulk-Message-Sender.png" width="600px" hight="100px">
