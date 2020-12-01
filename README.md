@@ -37,8 +37,6 @@ $ For Contact list open web.whatsapp.com
 $ give contact.csv file name and hit enter
 
   1) Follow intrection
-    
-
 ```
 
 ## Legal Disclaimer:
